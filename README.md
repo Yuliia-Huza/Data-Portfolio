@@ -18,4 +18,5 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
 ---
 
 ## 📂 Projects  
-
+### 🗄️ SQL Projects
+- [Ads Analysis (Google & Facebook)](ads_analysis.sql)
