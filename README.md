@@ -33,9 +33,9 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
   - Visualized ad spend and ROMI dynamics by month  
   - Analyzed active campaigns over time  
   - Compared CPC, CPM, CTR across campaigns  
-  - Identified top-performing and underperforming campaigns
- 
-  - [Player Engagement Dashboard (Game Analytics)](https://public.tableau.com/views/HW_3_17558901606960/PlayerEngagementDashboard)  
+  - Identified top-performing and underperforming campaigns  
+
+- [Player Engagement Dashboard (Game Analytics)](https://public.tableau.com/views/HW_3_17558901606960/PlayerEngagementDashboard)  
   **Goal:** Analyze player engagement across age groups and activity periods.  
   **Tools:** Tableau Public  
   **Key Features:**  
