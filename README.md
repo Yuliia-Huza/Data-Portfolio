@@ -18,11 +18,16 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
 ---
 
 ## 📂 Projects  
-### 🗄️ SQL Projects
+
+### 🗄️ SQL Projects  
 - [Ads Analysis (Google & Facebook)](ads_analysis.sql)  
   **Goal:** Analyze daily ad spend, ROMI, campaign performance, and reach growth across Google & Facebook.  
   **Tools:** SQL (PostgreSQL)  
-  **Results:** Identified top-performing campaigns and highest ROMI days.
+  **Key Features:**  
+  - Query-based analysis of ad performance  
+  - Comparison of daily spend and ROMI  
+  - Identification of peak performance days  
+  **Results:** Delivered insights that highlighted the most profitable campaigns and optimized ad budget allocation.  
 
 ### 📊 BI Dashboards  
 
@@ -34,6 +39,7 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
   - Analyzed active campaigns over time  
   - Compared CPC, CPM, CTR across campaigns  
   - Identified top-performing and underperforming campaigns  
+  **Results:** Enabled data-driven decisions that improved marketing ROI and reduced underperforming ad spend.  
 
 - [Player Engagement Dashboard (Game Analytics)](https://public.tableau.com/views/HW_3_17558901606960/PlayerEngagementDashboard)  
   **Goal:** Analyze player engagement across age groups and activity periods.  
@@ -42,6 +48,7 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
   - Heatmap of average playtime by age group and quarter  
   - Trends of active users and Battle Pass share  
   - Time spent per unique player  
+  **Results:** Provided behavioral insights that supported targeted retention strategies and improved user engagement.  
 
 - [Cohort Analysis – Revenue Dashboard](https://public.tableau.com/views/HW_4_17561486356070/Dashboard2)  
   **Goal:** Track revenue trends, retention, and monthly recurring revenue (MRR).  
@@ -50,3 +57,4 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
   - Cohort analysis of users by first payment month  
   - Total revenue & percentage change dynamics  
   - New MRR growth and seasonality insights  
+  **Results:** Uncovered retention gaps and seasonality patterns, helping to optimize monetization and forecast revenue growth.  
