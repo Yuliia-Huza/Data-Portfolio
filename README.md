@@ -20,3 +20,6 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
 ## 📂 Projects  
 ### 🗄️ SQL Projects
 - [Ads Analysis (Google & Facebook)](ads_analysis.sql)
+  **Goal:** Analyze daily ad spend, ROMI, campaign performance, and reach growth across Google & Facebook.  
+  **Tools:** SQL (PostgreSQL)  
+  **Results:** Identified top-performing campaigns and highest ROMI days.
