@@ -31,7 +31,7 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
 
 ### 📊 BI Dashboards  
 
-- [User Onboarding & Conversion Dashboard (Sales Funnel Analytics)](https://public.tableau.com/views/HW_5_17653217475000/UserOnboardingConversionDashboard?publish=yes)  
+- [User Onboarding & Conversion Dashboard (Sales Funnel Analytics)](https://public.tableau.com/shared/2HCB692GC?:display_count=n&:origin=viz_share_link)  
   **Goal:** Analyze the user onboarding journey and conversion funnel — from registration to first payment. Identify bottlenecks, measure conversion at each step, and evaluate time-to-payment dynamics.  
   **Tools:** Tableau Public  
   **Key Features:**  
