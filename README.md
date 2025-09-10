@@ -53,6 +53,17 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
   - Compared CPC, CPM, CTR across campaigns  
   - Identified top-performing and underperforming campaigns  
 
+  **Results:** Enabled data-driven decisions that improved marketing ROI and reduced underperforming ad spend.
+  
+- [Marketing Dashboard: Facebook + Google Ads (CPC, CPM, CTR, ROMI)](https://lookerstudio.google.com/reporting/fb7a8d80-4a71-4f97-be3f-2b0082239087)  
+  **Goal:** Build an interactive dashboard to analyze marketing campaigns from Facebook and Google Ads.  
+  **Tools:** Google Looker Studio, SQL  
+  **Key Features:**  
+  - Visualized ad spend and ROMI dynamics by month  
+  - Analyzed active campaigns over time  
+  - Compared CPC, CPM, CTR across campaigns  
+  - Identified top-performing and underperforming campaigns  
+
   **Results:** Enabled data-driven decisions that improved marketing ROI and reduced underperforming ad spend.  
 
 - [Player Engagement Dashboard (Game Analytics)](https://public.tableau.com/views/HW_3_17558901606960/PlayerEngagementDashboard)  
