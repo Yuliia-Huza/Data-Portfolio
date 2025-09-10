@@ -31,29 +31,17 @@ Skilled in **SQL, Python, BI tools (Power BI, Tableau, Looker Studio, Amplitude)
 
 ### 📊 BI Dashboards  
 
- - [User Onboarding & Conversion Dashboard (Sales Funnel Analytics)](https://public.tableau.com/views/HW_5_17653217475000/UserOnboardingConversionDashboard?publish=yes)  
+- [User Onboarding & Conversion Dashboard (Sales Funnel Analytics)](https://public.tableau.com/views/HW_5_17653217475000/UserOnboardingConversionDashboard?publish=yes)  
   **Goal:** Analyze the user onboarding journey and conversion funnel — from registration to first payment. Identify bottlenecks, measure conversion at each step, and evaluate time-to-payment dynamics.  
   **Tools:** Tableau Public  
   **Key Features:**  
   - KPI cards showing **Registered users**, **Trial users**, and **Paid users**  
-  - **Funnel chart** visualizing conversion across onboarding steps (registration → email verification → profile completion → setup → trial → payment)  
-  - **Monthly registrations & conversion chart** (bar + line): number of registrations and conversion to trial per month  
-  - **Interactive chart** of average number of days from registration to payment per month (drill-down by funnel stage via dashboard actions)  
-  - Action filters: selecting a funnel stage dynamically updates the “days to payment” chart  
+  - Funnel chart visualizing conversion across onboarding steps (registration → email verification → profile completion → setup → trial → payment).  
+  - Monthly registrations & conversion chart (bar + line): number of registrations and conversion to trial per month.  
+  - Interactive chart of average number of days from registration to payment per month (drill-down by funnel stage via dashboard actions.
+  - Action filters: selecting a funnel stage dynamically updates the “days to payment” chart.  
 
-  **Results:** Delivered insights into user drop-off points and conversion efficiency, highlighted the average time users take to convert to paying customers, and enabled interactive exploration of onboarding performance.  
-
-
-- [Marketing Dashboard: Facebook + Google Ads (CPC, CPM, CTR, ROMI)](https://lookerstudio.google.com/reporting/fb7a8d80-4a71-4f97-be3f-2b0082239087)  
-  **Goal:** Build an interactive dashboard to analyze marketing campaigns from Facebook and Google Ads.  
-  **Tools:** Google Looker Studio, SQL  
-  **Key Features:**  
-  - Visualized ad spend and ROMI dynamics by month  
-  - Analyzed active campaigns over time  
-  - Compared CPC, CPM, CTR across campaigns  
-  - Identified top-performing and underperforming campaigns  
-
-  **Results:** Enabled data-driven decisions that improved marketing ROI and reduced underperforming ad spend.
+  **Results:** Delivered insights into user drop-off points and conversion efficiency, highlighted the average time users take to convert to paying customers, and enabled interactive exploration of onboarding performance.
   
 - [Marketing Dashboard: Facebook + Google Ads (CPC, CPM, CTR, ROMI)](https://lookerstudio.google.com/reporting/fb7a8d80-4a71-4f97-be3f-2b0082239087)  
   **Goal:** Build an interactive dashboard to analyze marketing campaigns from Facebook and Google Ads.  
